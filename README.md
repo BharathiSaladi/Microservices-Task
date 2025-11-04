@@ -75,6 +75,12 @@ Run the docker-compose.yml file using below command and check if all the service
   <img width="1317" height="308" alt="image" src="https://github.com/user-attachments/assets/2899a3f8-fa6f-4a38-82b3-36161d3806a3" />
 
 
+  Go to your Docker Desktop and check if the containers are up and running
+
+  <img width="1918" height="693" alt="image" src="https://github.com/user-attachments/assets/48fc8786-f755-4d9a-866c-51111944bf08" />
+
+
+
 
 Once the services are running, use the below endpoints to verify the functionality.
 
